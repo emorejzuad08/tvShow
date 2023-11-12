@@ -1,0 +1,22 @@
+{
+  "name": "tvshow",
+  "version": "1.0.0",
+  "description": "TV Show App using TV Maze API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emorejzuad08/tvShow.git"
+  },
+  "keywords": [
+    "tvShow"
+  ],
+  "author": "Jerome Dauz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emorejzuad08/tvShow/issues"
+  },
+  "homepage": "https://github.com/emorejzuad08/tvShow#readme"
+}
