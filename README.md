@@ -8,4 +8,4 @@ To run the app:
    > nodemon index.js
    Note: If nodemon is not installed just type node index.js
 3. Enjoy!
-   > The site is running on localhost:3000
+   > The site is running on localhost:3001
