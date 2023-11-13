@@ -44,6 +44,10 @@
     <br />
     <span><b>Type:</b> <%= result.show.type %></span>
     <br />
+    <% if(result.show.network !== null){%>
+    <span><b>Country:</b> <%= result.show.network.country.name %></span>
+    <br />
+    <% }%>
     <span><b>Premiered:</b> <%= result.show.premiered %></span>
     <br />
     <span><b>Ended:</b> <%= result.show.ended %></span>
